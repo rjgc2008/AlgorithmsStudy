@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="200Algorithms4th">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/200Algorithms4th" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/200Algorithms4th" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/200Algorithms4th" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/200Algorithms4th" recursive="false" type="SOURCES" />
+  </library>
+</component>
