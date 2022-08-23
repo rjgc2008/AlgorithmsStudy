@@ -1,14 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0ca8fbc-9593-4f0f-8361-db5ba3f2a3f4" name="Changes" comment="" />
+    <list default="true" id="c0ca8fbc-9593-4f0f-8361-db5ba3f2a3f4" name="Changes" comment="完成Junit配置">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/junitgenerator-prj-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/100Junit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/chapterone/ChapterOneTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmsStudy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmsStudy.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2DkJy2JCdiIFW0IUBylN5dQF5cc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -18,14 +35,95 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
+    "create.test.in.the.same.root": "true",
+    "last_opened_file_path": "D:/100WYJ/101IDEA/AlgorithmsStudy/200Algorithms4th",
+    "nodejs.jest.jest_package": "",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "plugins.junitgenerator.application"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\100WYJ\101IDEA\AlgorithmsStudy\src" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="chapterone" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ChapterOneTest.gcd2">
+    <configuration name="ChapterOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapterone.ChapterOne" />
+      <module name="AlgorithmsStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapterone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChapterOneTest.gcd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmsStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapterone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="chapterone" />
+      <option name="MAIN_CLASS_NAME" value="chapterone.ChapterOneTest" />
+      <option name="METHOD_NAME" value="gcd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChapterOneTest.gcd2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmsStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapterone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="chapterone" />
+      <option name="MAIN_CLASS_NAME" value="chapterone.ChapterOneTest" />
+      <option name="METHOD_NAME" value="gcd2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ChapterOne" />
+      <item itemvalue="JUnit.ChapterOneTest.gcd2" />
+      <item itemvalue="JUnit.ChapterOneTest.gcd" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ChapterOneTest.gcd2" />
+        <item itemvalue="JUnit.ChapterOneTest.gcd" />
+        <item itemvalue="Application.ChapterOne" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -34,7 +132,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661237401889</updated>
-      <workItem from="1661237403515" duration="5000" />
+      <workItem from="1661237403515" duration="535000" />
+      <workItem from="1661237950987" duration="3910000" />
     </task>
     <servers />
   </component>
@@ -51,5 +150,28 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="完成Junit配置" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成Junit配置" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/chapterone/ChapterOneTest.java</url>
+          <line>30</line>
+          <properties class="test.chapterone.ChapterOneTest" method="testGcd">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
